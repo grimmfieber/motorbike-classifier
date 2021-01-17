@@ -1,5 +1,5 @@
 # motorbikeClassificator
-![](/assets/images/tux.png)
+![](https://user-images.githubusercontent.com/43934894/104828030-2b410a00-5876-11eb-95e8-cb2e4158555c.png)
 
 #### program that uses frames to classificate any motorbike in that frame.
 
